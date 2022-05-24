@@ -1,2 +1,2 @@
 # SEC540
-This is to learn SEC540
+This repo is designed to learn SEC540
